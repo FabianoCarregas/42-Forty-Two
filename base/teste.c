@@ -1,8 +1,17 @@
-#include <stdio.h>
-#include <stdlib.h>
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   teste.c                                            :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: faaugust <faaugust@student.42sp.org.br>    +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2022/01/29 19:33:51 by faaugust          #+#    #+#             */
+/*   Updated: 2022/01/29 19:49:14 by faaugust         ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
 
-int main()
+int	main(void)
 {
-    printf("Hellos world!\n");
-    return 0;
+	printf("Hellos world!\n");
+	return (0);
 }
